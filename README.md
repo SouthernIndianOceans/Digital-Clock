@@ -1,3 +1,8 @@
+## Digital Clock
+
+This is a time based gadget with regular interval of 30 minutes remind you to take rest.
+Built with wpf c# , digital alarm functionality, session writer and manual functionality.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SouthernIndianOceans/Digital-Clock/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
